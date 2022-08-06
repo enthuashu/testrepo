@@ -1,0 +1,5 @@
+Whenever you want to restrict any file or folder while deploying then we use 
+GITIGNORE
+
+For this, we create a file with the name ".gitignore"
+ and we write the names of file which we don't want to send
